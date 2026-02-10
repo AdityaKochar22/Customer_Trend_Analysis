@@ -6,6 +6,8 @@ This project is perfect for:
 - 📚 Anyone learning Python, SQL, and Power BI
 - 💼 Professionals preparing for interviews in Data Analytics, Data Science or Product Analytics role
 
+### <b><i>Main Task of this Project is to Help Company Leverage Consumer Shopping data to identify trends, imporve customer Engagment and optimize makrketing and product startegies.</b></i>
+
 
 ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
